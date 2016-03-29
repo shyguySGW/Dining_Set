@@ -1,0 +1,784 @@
+{
+"Umbrella-1": {
+		"category": "sDining Set",
+		"model": "umbrella_1",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#ffffff",
+            "color2": "#a30000",
+			"color3": "#707d8f",
+            "color4": "#ffdd30"
+		} 
+	},
+"sDS Picnic Bench/Round 1/Offset": {
+        "model": "picnic_bench_rnd_offset",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Picnic Bench/Round 2/Offset": {
+        "model": "picnic_bench_rnd_diag_offset",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Picnic Bench 1/Offset": {
+        "model": "picnic_bench_offset",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Picnic Bench 2/Offset": {
+        "model": "picnic_bench_rotated_offset",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+
+"sDS Picnic Bench/Round 1": {
+        "model": "picnic_bench_rnd",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Picnic Bench/Round 2": {
+        "model": "picnic_bench_rnd_diag",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Picnic Bench 1": {
+        "model": "picnic_bench",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Picnic Bench 2": {
+        "model": "picnic_bench_rotated",
+        "type": "seating",
+		"price": 10.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood": {
+		"model": "chair_wd_bench",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+		"price": 2.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood/Diag1": {
+        "model": "chair_wd_bench_diag1",
+        "type": "seating",
+		"price": 2.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood/Diag2": {
+        "model": "chair_wd_bench_diag2",
+        "type": "seating",
+		"price": 2.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood 2": {
+        "model": "chairs2_wd_bench",
+        "type": "seating",
+		"price": 4.0,
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+        "seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood 2/Diag": {
+		"model": "chairs2_wd_bench_diag",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+		"price": 4.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood 4": {
+		"model": "chairs4_wd_bench",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+		"price": 8.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Wood 4/Diag": {
+		"model": "chairs4_wd_bench_diag",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		},
+		"price": 8.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std": {
+		"model": "chair_std_bench",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 2.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std/Diag1": {
+		"model": "chair_std_bench_diag1",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 2.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std/Diag2": {
+		"model": "chair_std_bench_diag2",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 2.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std 2": {
+		"model": "chairs2_std_bench",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 4.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std 2/Diag": {
+		"model": "chairs2_std_bench_diag",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 4.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std 4": {
+		"model": "chairs4_std_bench",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 8.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"sDS Chair-Std 4/Diag": {
+		"model": "chairs4_std_bench_diag",
+		"type": "seating",
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		},
+		"price": 8.0,
+		"seatingOptions": {
+            "hasBackRest": false
+        }
+	},
+"Table-Wood": {
+		"category": "sDining Set",
+		"model": "Table_SquareWood",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Picnic Bench": {
+		"category": "sDining Set",
+		"model": "picnic_table",
+		"type": "deco",
+		"price": 10.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Picnic Bench/Round": {
+		"category": "sDining Set",
+		"model": "picnic_bench_rnd_decor",
+		"type": "deco",
+		"price": 10.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Table-Wood/Round": {
+		"category": "sDining Set",
+		"model": "table_rndwood",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Post-Wood": {
+		"category": "sDining Set",
+		"model": "post",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Post-Wood/Half": {
+		"category": "sDining Set",
+		"model": "post_half",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam Support-Wood": {
+		"category": "sDining Set",
+		"model": "beam_support_wd",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Pole-Metal": {
+		"category": "sDining Set",
+		"model": "pole_metal",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#707d8f"
+		} 
+	},
+"Pole-Metal/Half": {
+		"category": "sDining Set",
+		"model": "pole_half_metal",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#707d8f"
+		} 
+	},
+"Beam-Wood": {
+		"category": "sDining Set",
+		"model": "beam",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood /Diag": {
+		"category": "sDining Set",
+		"model": "beam_diag",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/Half/Diag": {
+		"category": "sDining Set",
+		"model": "beam_half_diag",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/FullTile/Angle1/Diag": {
+		"category": "sDining Set",
+		"model": "beam_angled_full_tile_diag",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/FullTile/Angle2/Diag": {
+		"category": "sDining Set",
+		"model": "beam_angled2_full_tile_diag",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/HalfTile/Angle1": {
+		"category": "sDining Set",
+		"model": "beam_angled_half_tile",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/HalfTile/Angle2/Diag": {
+		"category": "sDining Set",
+		"model": "beam_angled_half_tile_diag",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/HalfTile/Angle1/Diag": {
+		"category": "sDining Set",
+		"model": "beam_angled_half_tile2_diag",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/FullTile/Angle1": {
+		"category": "sDining Set",
+		"model": "beam_angled_full_tile",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/FullTile/Angle2": {
+		"category": "sDining Set",
+		"model": "beam_angled2_full_tile",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/HalfTile/Angle2": {
+		"category": "sDining Set",
+		"model": "beam_angled_half",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Wood/Half": {
+		"category": "sDining Set",
+		"model": "beam_half",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam-Round/Metal": {
+		"category": "sDining Set",
+		"model": "beam_rnd_metal",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#707d8f"
+		} 
+	},
+"Beam-Round/Metal/Half": {
+		"category": "sDining Set",
+		"model": "beam_rnd_half_metal",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#707d8f"
+		} 
+	},
+"Flag-Banner": {
+		"category": "sDining Set",
+		"model": "flag_banner",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.25,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d10000",
+			"color2": "#e1d221",
+			"color3": "#1400e0",
+			"color4": "#046719"
+		} 
+	},
+"Flag-Banner/Long": {
+		"category": "sDining Set",
+		"model": "flag_banner_long",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.25,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#d10000",
+			"color2": "#e1d221",
+			"color3": "#1400e0",
+			"color4": "#046719"
+		} 
+	},
+"Shade-Canopy": {
+		"category": "sDining Set",
+		"model": "shade_canopy",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#0b6859",
+            "color2": "#bb513f"
+		} 
+},
+"Shade-Canopy/Long": {
+		"category": "sDining Set",
+		"model": "shade_canopy_long",
+		"type": "deco",
+		"price": 10.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#0b6859",
+            "color2": "#bb513f"
+		} 
+	},
+"Table-Wood/Diag": {
+		"category": "sDining Set",
+		"model": "Table_SquareWd_Diag",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Chair-Wood": {
+		"category": "sDining Set",
+        "model": "chair_wd",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		}
+    },
+"Chair-Std": {
+		"category": "sDining Set",
+        "model": "chair_std",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		}
+    },
+"Chair-Std/Diag": {
+		"category": "sDining Set",
+        "model": "chair_std_diag",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#dad0dd"
+		}
+    },
+"Chair-Wood/Diag": {
+		"category": "sDining Set",
+        "model": "chair_wd_diag",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		}
+    },
+"Table-Round": {
+		"category": "sDining Set",
+		"model": "Table_Round",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#258bff",
+            "color2": "#898ca0",
+			"color3": "#ffffff",
+            "color4": "#43a9ff"
+        }
+	},
+"Umbrella-Picnic": {
+		"category": "sDining Set",
+		"model": "umbrella_picnic",
+		"type": "deco",
+		"price": 5.0,     
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"heightDelta": 0.5,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#0b6859",
+            "color2": "#9e694b",
+			"color3": "#6b6d70"
+		} 
+	}
+}
