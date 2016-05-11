@@ -1,1 +1,9 @@
-{"BaseDir":"","CompilerVersion":"v3.5","CodeFiles":[],"IsDevelopment":false,"IsEnabled":true,"Name":"shyguy's Dining Set","Project":"Custom Scenery.csproj","Tag":"v3.0","ReferencedAssemblies":[],"Repository":"shyguySGW/Dining_Set"}
+{
+   "BaseDir" : "",
+   "CompilerVersion" : "v3.5",
+   "IsDevelopment" : false,
+   "IsEnabled" : true,
+   "Name" : "shy-Dining Set",
+   "Project" : "Custom Scenery.csproj",
+   "Dependencies" : null
+}

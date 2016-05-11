@@ -372,6 +372,20 @@
             "color2": "#9e694b"
 		} 
 	},
+"Post-Wood/Diag": {
+		"category": "sDining Set",
+		"model": "post_diag",
+		"type": "deco",
+		"price": 4.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
 "Post-Wood/Half": {
 		"category": "sDining Set",
 		"model": "post_half",
@@ -386,9 +400,37 @@
             "color2": "#9e694b"
 		} 
 	},
+"Post-Wood/Half/Diag": {
+		"category": "sDining Set",
+		"model": "post_half_diag",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
 "Beam Support-Wood": {
 		"category": "sDining Set",
 		"model": "beam_support_wd",
+		"type": "deco",
+		"price": 2.0,     
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.05,
+		"snapCenter": false,        
+		"recolorable": true,   
+		"recolorableOptions": {
+			"color1": "#6b3824",
+            "color2": "#9e694b"
+		} 
+	},
+"Beam Support-Wood/Diag": {
+		"category": "sDining Set",
+		"model": "beam_support_wd_diag",
 		"type": "deco",
 		"price": 2.0,     
 		"gridSubdivision": 2.0,
